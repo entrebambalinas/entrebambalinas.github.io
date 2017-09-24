@@ -1,5 +1,6 @@
 ![](images/ENTRE BAMBALINAS_solo_logo.svg)
-![](images/ENTRE BAMBALINAS_letras_blue.png)
+
+![](images/ENTRE_BAMBALINAS_letras.png)
 
 ## Entre Bambalinas
 
