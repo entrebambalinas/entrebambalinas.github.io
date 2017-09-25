@@ -2,7 +2,7 @@
 title: Valores
 ---
 
-## CÓDIGO EDONTOLÓGICO ##
+## CÓDIGO DEONTOLÓGICO ##
 
 
 Nosotros, la empresa de traducción teatral Entre Bambalinas, conscientes de que una conducta ética y profesional por nuestra parte — tanto entre nosotros, los socios, como entre nosotros y Entre Bambalinas, así como con todos nuestros clientes y colaboradores — redundará en beneficio de nuestra actividad profesional y empresarial, convenimos en adoptar el presente Código deontológico, y nos comprometemos a cumplir firmemente con lo siguiente
