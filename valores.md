@@ -61,7 +61,7 @@ Garantizar que los trabajos de traducción que se llevan a cabo en cada empresa 
 
 **Punto 9**
 
-Ayudarnos todos para cumplir eficazmente el presente Código deontológico.
+Ayudarnos todos para cumplir eficazmente el presente código deontológico.
 
 
 
