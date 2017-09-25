@@ -1,2 +1,51 @@
-theme: minima
+##############################################
+# Datos a rellenar
+##############################################
+
 title: Entre Bambalinas
+
+description: Somos una empresa de traducción de teatro
+
+social:
+   github: entrebambalinas
+   twitter: entrebambalinas
+   facebook: entrebambalinas
+   email: entrebambalinas@gmail.com
+
+# En esta lista podéis personalizar el orden de las páginas:
+navigation:
+ - title: Nosotros
+   url: /nosotros
+ - title: Equipo
+   url: /equipo
+ - title: Servicios
+   url: /servicios
+ - title: Clientes
+   url: /clientes
+ - title: Valores
+   url: /valores
+ - title: Trabaja con nosotros
+   url: /unete
+ - title: Contacto
+   url: /contacto
+
+##############################################
+# Cosas técnicas a partir de aquí
+##############################################
+
+url: https://entrebambalinas.github.io
+baseurl: ""
+paginate_path: "blog/p:num/"
+permalink: pretty
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
