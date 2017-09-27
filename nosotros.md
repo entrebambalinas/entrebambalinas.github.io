@@ -3,6 +3,10 @@ title: Nosotros
 ---
 
 
-Entre Bambalinas, empresa española de la industria de la traducción teatral. Creada el 14 de abril de 2014 cuenta con sede en la calle Salamanca de Madrid, donde trabaja una plantilla de 9 trabajadores, entre los que se encuentran traductores, intérpretes y publicistas con amplia experiencia para prestar a sus clientes un servicio de calidad que aporte un verdadero valor añadido a sus proyectos y objetivos.
-Sus trabajadores trabajan activamente para defender la calidad de nuestro sector, para tratar de evitar que la traducción sea víctima del intrusismo laboral y para conseguir las ventajas inherentes a negociaciones colectivas. Una empresa de traducción de amantes del teatro, para amantes del teatro.
+Entre Bambalinas es una empresa española que cuenta con traductores e intérpretes muy cualificados al igual que con una larga y exitosa trayectoria laboral.  Atendemos a clientes nacionales e internacionales, con el compromiso de dar el mejor servicio, personalizado y adaptado a las exigencias y necesidades de cada cliente. 
+
+Nuestra empresa comenzó ofreciendo servicios de traducción e interpretación y con el paso del tiempo  se fue especializando en el campo de los musicales y espectáculos teatrales contando hoy en día con una extensa agenda de contactos que harán su proyecto mucho más sencillo de llevar a cabo, ofreciendo servicios de Traducción teatral, Interpretación, Cursos de formación, Patrocinio, Intermediación etc.
+ 
+Esta empresa fue fundada por los cinco socios principales Esperanza Montero Jaén, María del Mar Sánchez Gascón, Vicente Bru García, Elena Pérez García, Virginia Méndez Pedraza, que supervisan y participan activamente en todos los proyectos; y con el tiempo se fueron incorporando los demás departamentos. Actualmente contamos con un departamento de marketing y relaciones internacionales asegurándonos de que todas las necesidades del cliente quedan cubiertas.
+
  
