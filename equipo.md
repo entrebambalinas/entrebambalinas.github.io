@@ -2,5 +2,5 @@
 title: Equipo
 ---
 
- ![Relaciones internacionales]
- (https://drive.google.com/open?id=0B5Sy8D08x5JnZUthZ2dqbGFKaVU)
+ ![Revisora]
+ (http://imageshack.com/a/img923/1912/tIOvqE.jpg)
