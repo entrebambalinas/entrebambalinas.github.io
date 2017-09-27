@@ -2,16 +2,16 @@
 title: Equipo
 ---
 
- Traductora                                             
+ Traductora             Revisora                                   
 
  ![ ](foto carné.jpg)                                    
  
-Revisora
+
 ![ ](virginia.jpg) 
 
 <style>
  .content .container img {
-    width: 5em;
+    width: 10em;
     float: left;
     margin-right: 1em;
  }
