@@ -9,6 +9,10 @@ title: Equipo
  
 ![ ](virginia.jpg)    Revisora
 
+![ ](20140718_124722.jpg) Relaciones internacionales
+
+![ ]( Fotografía_Elena.jpeg) Contable
+
 
 <style>
  .content .container img {
