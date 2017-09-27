@@ -2,8 +2,8 @@
 title: Equipo
 ---
 
- Traductora
- ![ ](foto carné.jpg) 
+ Traductora                                             Revisora
+ ![ ](foto carné.jpg)                                   ![ ](virginia.jpg) 
  
 
 
