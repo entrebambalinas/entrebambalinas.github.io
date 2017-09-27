@@ -1,6 +1,11 @@
 ---
 title: Nosotros
 ---
+                                              
+            **Con sede en Granada desde el 2005, ofrecemos servicios lingüísticos y de intermediación a productoras 
+               y particulares con la máxima garantía de profesionalidad, seriedad y eficacia**
+
+
 
 
 Entre Bambalinas es una empresa española que cuenta con traductores e intérpretes muy cualificados al igual que con una larga y exitosa trayectoria laboral.  Atendemos a clientes nacionales e internacionales, con el compromiso de dar el mejor servicio, personalizado y adaptado a las exigencias y necesidades de cada cliente. 
