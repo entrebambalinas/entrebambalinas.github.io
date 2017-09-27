@@ -3,4 +3,4 @@ title: Equipo
 ---
 
  ![Relaciones internacionales]
- (https://drive.google.com/drive/u/0/folders/0B9Ln6x8__0zscHZwQVlzcHYzOEE)
+ (https://drive.google.com/open?id=0B5Sy8D08x5JnZUthZ2dqbGFKaVU)
