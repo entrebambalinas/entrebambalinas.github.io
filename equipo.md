@@ -22,7 +22,7 @@ title: Equipo
 
 ![ ](11083630_926155390751287_3063006943886712191_n.jpg) Vicente Bru García-Relaciones internacionales
 
-![ ](20140718_124722.jpg) María del Mar Sánchez Gascón-Relaciones internacionales
+![ ](20140718_124722_girada.jpg) María del Mar Sánchez Gascón-Relaciones internacionales
 
 <style>
  .content .container img {
