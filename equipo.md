@@ -2,7 +2,7 @@
 title: Equipo
 ---
 
- Traductora             Revisora                                   
+ Traductora                          Revisora                                   
 
  ![ ](foto carné.jpg)                                    
  
