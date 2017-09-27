@@ -5,7 +5,7 @@ title: Valores
 ## CÓDIGO DEONTOLÓGICO ##
 
 
-Nuestro objetivo es el de Acercar el teatro internacional al público hispanohablante, tenemos un firme compromiso con la cultura y para todo esto ofrecemos un servicio de alta calidad y muy fiable. En este sector hay muchas empresas de traducción e interpretación, pero en nuestra empresa queremos ir un paso más allá y por eso ponemos todos los recursos disponibles a su alcance. 
+Nuestro objetivo es el de acercar el teatro internacional al público hispanohablante, tenemos un firme compromiso con la cultura y para todo esto ofrecemos un servicio de alta calidad y muy fiable. En este sector hay muchas empresas de traducción e interpretación, pero en nuestra empresa queremos ir un paso más allá y por eso ponemos todos los recursos disponibles a su alcance. 
 
 
 
