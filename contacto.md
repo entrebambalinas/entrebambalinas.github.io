@@ -3,8 +3,7 @@ title: Contacto
 ---
 
 ¿Hay algo que nos quieras contar? 
-Puedes encontrarnos en la dirección C/Camino de Ronda, 61, 1º, llamarnos 
-al 958061715 o rellenar el siguiente formulario                                                                  
+                                                                
                                                                    
 <form>                                                           
 <p><input type="text" placeholder="Nombre"></p>                    
@@ -14,4 +13,5 @@ al 958061715 o rellenar el siguiente formulario
 <p><input type="submit" value="Enviar"></p>
 </form>
 ---
-
+ C/Camino de Ronda, 61, 1º C.P. 18004
+Tlf.: 958061715 
