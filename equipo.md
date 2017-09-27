@@ -3,5 +3,5 @@ title: Equipo
 ---
 
  Traductora
- ![](foto carné.jpg) 
+ ![ ](foto carné.jpg) 
  
