@@ -2,13 +2,6 @@
 title: Equipo
 ---
 
-<style>
- .content .container img {
-    width: 10em;
-    float: left;
-    margin-right: 1em;
- }
-</style>
                                                                                                 
 
  ![ ](foto carné.jpg)   Traductora                                 
@@ -34,7 +27,7 @@ title: Equipo
 <style>
  .content .container img {
     width: 10em;
-    float: left;
+    /*float: left;*/
     margin-right: 1em;
  }
 </style>
