@@ -26,11 +26,11 @@ title: Equipo
 
 ![ ](WhatsApp Image 2017-09-29 at 11.13.36.jpeg) Frederick Scott-Recursos humanos
 
-![ ](WhatsApp Image 2017-09-29 at 11.13.35 (1).jpeg) David Muñoz Caballero-Publicista
-
 ![ ](WhatsApp Image 2017-09-29 at 11.13.35.jpeg) Montserrat Santos Rey-Diseñadora gráfica
 
 ![ ](WhatsApp Image 2017-09-29 at 11.13.34.jpeg) Victor Martín Sánchez-Contable
+
+![ ](David_publicista.jpeg) David Muñoz Caballero-Publicista
 
 
 
