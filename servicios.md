@@ -10,6 +10,6 @@ title: Servicios
 - **Intermediación**: ofrecemos este servicio estrechamente ligado con el de la interpretación para hacer los proyectos lo más sencillos posibles,  de forma que que los clientes puedan delegar en nosotros la mayor parte del proyecto
 - **Sobretitulado**
 - **Subtitulación de películas**
-- **Accesibilidad**: realizamos subtitulaciones para persona con discapacidad auditiva
+- **Accesibilidad**: realizamos subtitulaciones para personas con discapacidad auditiva
 
 
