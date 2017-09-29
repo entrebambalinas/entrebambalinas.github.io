@@ -3,12 +3,13 @@ title: Servicios
 ---
 
 
-- **Traducción teatral**: tenemos una plantilla de traductores expertos para traducir el guión de su obra de  teatro
-- **Interpretación**: ofrecemos servicios de interpretación para cualquier trámite que requiera de una reunión etc. donde alguna de las partes no hable español
-- Ofrecemos **cursos de formación** además de tener un convenio con la Universidad de Traducción e Interpretación de Granada de manera que muchos de sus estudiantes pueden hacer prácticas en nuestra empresa
+- **Traducción teatral**: contamos una plantilla de traductores expertos para la traducción de guiones teatrales
+- **Interpretación**: ofrecemos servicios de interpretación para cualquier trámite que requiera.
+- Ofrecemos **cursos de formación**. Además, tenemos convenio con la Universidad de Granada de manera que muchos de sus estudiantes pueden realizar prácticas en nuestra empresa
 - **Patrocinio de proyectos**
-- **Intermediación**: ofrecemos este servicio estrechamente ligado con el de interpretación para hacer los proyectos lo más sencillo posible de manera que los clientes puedan delegar en nosotros la mayor parte del proyecto
+- **Intermediación**: ofrecemos este servicio estrechamente ligado con el de la interpretación para hacer los proyectos lo más sencillos posibles,  de forma que que los clientes puedan delegar en nosotros la mayor parte del proyecto
 - **Sobretitulado**
 - **Subtitulación de películas**
+- **Accesibilidad**: realizamos subtitulaciones para persona con discapacidad auditiva
 
 
