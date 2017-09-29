@@ -2,4 +2,4 @@
 title: Clientes
 ---
 
-En los 9 años que llevamos en el mercado hemos participado en diversos espectáculos musicales que nos han hecho un hueco en esta industria y hemos sido galardonados con premios como   el Premio «María Martínez Sierra» de Traducción y el Premio Nacional a la Mejor Traducción.
+En los 9 años que llevamos en el mercado, nuestra empresa ha participado en la presentación en diversos espectáculos musicales consiguiendo así hacerse un hueco en esta difícil industria. Así mismo, ha sido galardonada con premios como   el Premio «María Martínez Sierra» de Traducción y el Premio Nacional a la Mejor Traducción.
