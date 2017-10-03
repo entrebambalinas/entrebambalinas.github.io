@@ -16,8 +16,6 @@ social:
 navigation:
  - title: Nosotros
    url: /nosotros
- - title: Equipo
-   url: /equipo
  - title: Servicios
    url: /servicios
  - title: Porfolio
