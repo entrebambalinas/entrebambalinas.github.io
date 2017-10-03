@@ -17,6 +17,9 @@ Esta empresa fue fundada por los cinco socios principales, Esperanza Montero Ja�
  
  
  
+ 
+ **Equipo**: 
+ 
  ![ ](foto carné.jpg)   Esperanza Montero Jaén-Traductora e intérprete                               
  
  
