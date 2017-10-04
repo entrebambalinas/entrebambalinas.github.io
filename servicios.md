@@ -4,6 +4,7 @@ title: Servicios
 
 
 - **Traducción teatral**: contamos una plantilla de traductores expertos para la traducción de guiones teatrales
+  ![ ](Theatre_Mask_icon-icons.com_54130.png)
 - **Interpretación**: ofrecemos servicios de interpretación para cualquier trámite que requiera.
 - Ofrecemos **cursos de formación**. Además, tenemos convenio con la Universidad de Granada, de manera que muchos de sus estudiantes pueden realizar prácticas en nuestra empresa
 - **Patrocinio de proyectos**
