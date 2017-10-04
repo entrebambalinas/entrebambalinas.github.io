@@ -1,9 +1,6 @@
 ---
 title: Equipo
 ---
-
-                                                                                              
-
  ![ ](foto carné.jpg)   Esperanza Montero Jaén-Traductora e intérprete                               
  
  
@@ -11,6 +8,14 @@ title: Equipo
 
 
 ![ ](Fotografía_Elena.jpeg) Elena Pérez García-Traductora e intérprete
+
+
+
+
+
+
+
+
 
 ![ ](11083630_926155390751287_3063006943886712191_n.jpg) Vicente Bru García-Relaciones internacionales
 
@@ -33,3 +38,9 @@ title: Equipo
     margin-right: 1em;
  }
 </style>
+
+
+
+
+
+
