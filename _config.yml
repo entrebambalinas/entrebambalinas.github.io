@@ -22,6 +22,8 @@ navigation:
    url: /clientes
  - title: Valores
    url: /valores
+ - title: Equipo
+   url: /equipo
  - title: Trabaja con nosotros
    url: /unete
  - title: Contacto
